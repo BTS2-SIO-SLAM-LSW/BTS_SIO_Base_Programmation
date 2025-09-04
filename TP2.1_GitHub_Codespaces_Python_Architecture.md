@@ -1,8 +1,29 @@
+
 # 🚀 TP 2.1 - GitHub Codespaces + Python Professionnel
+
+<p align="right"><a href="https://ggaillard.github.io/BTS1_SIO_Base_Programmation/" target="_blank">🌐 Accès direct à la page du projet (GitHub Pages)</a></p>
+
 **Module B1.1 Algorithmique - Séance 2.1**  
 **Durée :** 1h  
 **Objectif :** Découvrir l'environnement professionnel et approfondir Python  
 **Plateforme :** GitHub Codespaces + VS Code
+
+---
+
+## 🗂️ Sommaire rapide
+
+- [Objectifs du TP](#objectifs-du-tp-1-heure)
+- [Planning simplifié](#planning-simplifié-1h)
+- [Étape 1 : Configuration express](#étape-1--configuration-express-15min)
+- [Étape 2 : Interactions Python avec input()](#étape-2--interactions-python-avec-input-15min)
+- [Étape 3 : Conditions intelligentes](#étape-3--conditions-intelligentes-15min)
+- [Étape 4 : Sauvegarde Git](#étape-4--sauvegarde-git-15min)
+- [Bilan et architecture professionnelle](#bilan--votre-architecture-professionnelle-maîtrisée)
+- [Prochains défis](#prochains-défis-optionnels)
+
+---
+
+> 💡 **Astuce :** Tous les fichiers et ressources de ce TP sont accessibles en ligne via la page d'accueil du projet ([GitHub Pages](https://ggaillard.github.io/BTS1_SIO_Base_Programmation/)).
 
 ---
 
