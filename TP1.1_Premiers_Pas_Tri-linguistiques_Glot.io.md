@@ -1050,37 +1050,6 @@ public class Test {  // Majuscule obligatoire
 
 ---
 
-## 📝 **ANNEXE : TP2 - APERÇU DE LA SEMAINE PROCHAINE**
-
-### **🎯 TP 2.1 - GitHub Codespaces + Python Avancé (2h)**
-
-**Objectifs :**
-- ✅ Maîtriser VS Code dans GitHub Codespaces
-- ✅ Conditions intelligentes en Python
-- ✅ Interactions réelles avec input()
-- ✅ Validation de données utilisateur
-- ✅ Gestion d'erreurs de base
-- ✅ Premier projet Git
-
-**Progression naturelle :**
-1. **Configuration professionnelle** : GitHub → Codespace → VS Code
-2. **Python approfondi** : conditions, boucles, fonctions
-3. **Interactions réelles** : input(), validation, gestion d'erreurs
-4. **Projet guidé** : Application complète de gestion
-5. **Git de base** : commit, push, historique
-
-**Pourquoi Python uniquement au TP2 ?**
-- **Consolidation** : approfondir avant de diversifier
-- **Environnement pro** : VS Code + Git + terminal
-- **Concepts avancés** : mieux maîtrisés dans 1 langage d'abord
-- **Préparation SISR/SLAM** : Python = langage pivot du module
-
----
-
-**🎯 Rendez-vous la semaine prochaine pour passer au niveau professionnel avec VS Code et GitHub !**
-
----
-
 ## 📖 **LEXIQUE & AIDE-MÉMOIRE**
 
 ### **Lexique des concepts**

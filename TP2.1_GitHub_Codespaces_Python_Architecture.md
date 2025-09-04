@@ -489,4 +489,3 @@ git push        # Envoyer sur GitHub
 
 ---
 
-**🔥 Rendez-vous au prochain TP pour découvrir les boucles et les listes !**
