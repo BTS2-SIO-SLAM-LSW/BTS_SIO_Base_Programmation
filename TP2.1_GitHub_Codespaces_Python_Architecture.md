@@ -75,6 +75,52 @@
 
 🎉 **Résultat :** VS Code s'ouvre dans votre navigateur !
 
+# Guide d'installation et d'exécution du projet Python
+
+## Prérequis
+- Un ordinateur sous Linux, Windows ou macOS
+- Python 3.12 (ou version supérieure)
+- Un éditeur de texte (VS Code recommandé)
+
+## Étapes d'installation
+
+### 1. Cloner le dépôt
+Ouvrez un terminal et exécutez :
+```bash
+git clone <URL_DU_DEPOT>
+cd Projet_Phyton
+```
+Remplacez `<URL_DU_DEPOT>` par l'URL réelle du dépôt GitHub.
+
+### 2. Vérifier l'installation de Python
+Vérifiez que Python 3.12 (ou supérieur) est installé :
+```bash
+python3 --version
+```
+Si ce n'est pas le cas, installez Python depuis https://www.python.org/downloads/
+
+### 3. (Optionnel) Créer un environnement virtuel
+Il est recommandé d'utiliser un environnement virtuel :
+```bash
+python3 -m venv venv
+source venv/bin/activate  # Sur Windows : venv\Scripts\activate
+```
+
+### 4. Installer les dépendances
+(S'il y a un fichier `requirements.txt`, exécutez :)
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Lancer le programme
+Dans le dossier du projet, lancez :
+```bash
+python3 test.py
+```
+
+Vous devriez voir un message confirmant le bon fonctionnement de l'environnement.
+
+
 ### **1.3 Test Rapide de l'Environnement**
 
 1. **Dans VS Code**, créer un nouveau fichier : **Ctrl+N**
