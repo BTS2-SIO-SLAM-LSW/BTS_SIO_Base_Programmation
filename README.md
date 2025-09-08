@@ -1,4 +1,4 @@
-# BTS1 SIO Base Programmation
+# BTS SIO 2 Base Programmation
 
 > Dépôt de base pour l'apprentissage de la programmation en BTS SIO.
 
