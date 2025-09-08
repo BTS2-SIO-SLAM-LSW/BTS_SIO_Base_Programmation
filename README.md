@@ -2,7 +2,7 @@
 
 ## Table des matières
 - [Introduction](#introduction)
-- [Support de cours](#Support-de-cours)
+- [Support de cours](#support-de-cours)
   - [Prérequis](#prérequis)
   - [Étapes](#étapes)
     - [Étape 1 : Cloner le dépôt](#étape-1--cloner-le-dépôt)
@@ -17,7 +17,7 @@ Texte d’introduction.
 
 ## Support de cours :
 
-- [Langage Python - Les Bases - David DONISA   .pdf(01_cours/Langage Python - Les Bases - David DONISA   .pdf)
+- [langage_python_bts_sio2_par_david_donisa.pdf](01_cours/langage_python_bts_sio2_par_david_donisa.pdf)
 
 ## 🚀 Utilisation
 
