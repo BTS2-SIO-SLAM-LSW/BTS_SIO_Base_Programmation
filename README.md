@@ -12,10 +12,10 @@
 
 ---
 
-## Introduction :
+## Introduction
 Texte d’introduction.
 
-## Support de cours :
+## Support de cours
 
 - [langage_python_bts_sio2_par_david_donisa.pdf](01_cours/langage_python_bts_sio2_par_david_donisa.pdf)
 
