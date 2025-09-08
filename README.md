@@ -1,17 +1,23 @@
 # BTS SIO 2 Base Programmation
 
-> Dépôt de base pour l'apprentissage de la programmation en BTS SIO.
+## Table des matières
+- [Introduction](#introduction)
+- [Support de cours](#Support de cours)
+  - [Prérequis](#prérequis)
+  - [Étapes](#étapes)
+    - [Étape 1 : Cloner le dépôt](#étape-1--cloner-le-dépôt)
+    - [Étape 2 : Installer les dépendances](#étape-2--installer-les-dépendances)
+- [Utilisation](#utilisation)
+- [Crédits](#crédits)
 
-## 📎 Lien à partager aux étudiants
+---
 
-[https://github.com/ggaillard/BTS1_SIO_Base_Programmation](https://github.com/ggaillard/BTS1_SIO_Base_Programmation)
+## Introduction :
+Texte d’introduction.
 
-## 📄 Table des matières
+## Support de cours :
 
-- [index.html](index.html) : Page d'accueil web du projet
-- [README.md](README.md) : Documentation principale
-- [TP1.1_Premiers_Pas_Tri-linguistiques_Glot.io.md](TP1.1_Premiers_Pas_Tri-linguistiques_Glot.io.md) : Premier TP
-- [TP2.1_GitHub_Codespaces_Python_Architecture.md](TP2.1_GitHub_Codespaces_Python_Architecture.md) : Deuxième TP
+- [Langage Python - Les Bases - David DONISA   .pdf(01_cours/Langage Python - Les Bases - David DONISA   .pdf)
 
 ## 🚀 Utilisation
 
