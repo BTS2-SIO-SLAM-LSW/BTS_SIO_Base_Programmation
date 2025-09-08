@@ -2,7 +2,7 @@
 
 ## Table des matières
 - [Introduction](#introduction)
-- [Support de cours](#Support de cours)
+- [Support de cours](#Support-de-cours)
   - [Prérequis](#prérequis)
   - [Étapes](#étapes)
     - [Étape 1 : Cloner le dépôt](#étape-1--cloner-le-dépôt)
