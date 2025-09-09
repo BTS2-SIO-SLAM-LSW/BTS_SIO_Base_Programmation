@@ -5,8 +5,7 @@
 - [Support de cours](#support-de-cours)
     - [Démo : Les variables](#démo--les-variables)
 - [Exercices](#exercices)
-    - [Étape 1 : Cloner le dépôt](#étape-1--cloner-le-dépôt)
-    - [Étape 2 : Installer les dépendances](#étape-2--installer-les-dépendances)
+
 - [Utilisation](#utilisation)
 - [Crédits](#crédits)
 
@@ -23,9 +22,6 @@ Texte d’introduction.
 
 ## Exercices
 
-1. Ouvrez `index.html` pour une vue d'ensemble rapide.
-2. Lisez ce `README.md` pour comprendre la structure du projet.
-3. Suivez les TPs pour progresser dans l'apprentissage.
 
 ## Ressources utiles
 
