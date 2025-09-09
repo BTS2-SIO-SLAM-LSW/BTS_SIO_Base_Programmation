@@ -3,7 +3,8 @@
 ## Table des matières
 - [Introduction](#introduction)
 - [Support de cours](#support-de-cours)
-  - [Exercices](#exercices)
+    - [Démo : Les variables](#démo--les-variables)
+- [Exercices](#exercices)
     - [Étape 1 : Cloner le dépôt](#étape-1--cloner-le-dépôt)
     - [Étape 2 : Installer les dépendances](#étape-2--installer-les-dépendances)
 - [Utilisation](#utilisation)
@@ -17,6 +18,8 @@ Texte d’introduction.
 ## Support de cours
 
 - [langage_python_bts_sio2_par_david_donisa.pdf](01_cours/langage_python_bts_sio2_par_david_donisa.pdf)
+
+  - [Démo : Les variables](01_cours/demos/01_variables.py)
 
 ## Exercices
 
