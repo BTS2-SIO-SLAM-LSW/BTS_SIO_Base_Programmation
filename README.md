@@ -3,8 +3,8 @@
 ## Table des matières
 - [Introduction](#introduction)
 - [Support de cours](#support-de-cours)
-    - [Démo : Les variables](#démo-et-quiz---les-variables)
-	- [Démo : Les chaînes de caractères](#démo-et-quiz---les-variables)
+    - [Démo : Les variables](#démo--les-variables)
+	- [Démo : Les chaînes de caractères](#démo--les-chaînes-de-caractères)
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
