@@ -3,7 +3,8 @@
 ## Table des matières
 - [Introduction](#introduction)
 - [Support de cours](#support-de-cours)
-    - [Démo et Quiz : Les variables](#démo-et-quiz---les-variables)
+    - [Démo : Les variables](#démo-et-quiz---les-variables)
+	- [Démo : Les chaînes de caractères](#démo-et-quiz---les-variables)
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
@@ -18,7 +19,8 @@ Texte d’introduction.
 
 - [langage_python_bts_sio2_par_david_donisa.pdf](01_cours/langage_python_bts_sio2_par_david_donisa.pdf)
 
-  - [Démo : Les variables](01_cours/demos/01_variables.py)						|					[QUIZ](https://www.menti.com/alp449pa4mqr)
+  - [Démo : Les variables](01_cours/demos/01_variables.py)
+  - [Démo : Les chaînes de caractères](01_cours/demos/02_manip_strings.py)
 
 ## Exercices
 
