@@ -36,9 +36,9 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
 - [Les chaînes de caractères , les oéprateurs de comparaisons , les opérateurs logiques , les structures conditionnelles : ]
 
   - QCM d'entraînement sur PRONOTE         (N'hésitez pas à revoir les corrections dans PRONOTE)
-  - [Capitalisation de mots (Enoncé , corrigé et solutions alternatives)](02_exercices/chaines_capitalisation_de_noms.pdf)
-  - [Estimation de salaire mensuel net (Enoncé , corrigé et solutions alternatives)](02_exercices/chaines_estimation_salaire_mensuel_net.pdf)
-  - [Calcul de la moyenne d'un élève (Enoncé , corrigé et solutions alternatives)](02_exercices/chaines_moyenne_eleve.pdf)
+  - [Capitalisation de mots](02_exercices/02_maip_strings/chaines_capitalisation_de_noms.pdf) | (Enoncé , corrigé et solutions alternatives)
+  - [Estimation de salaire mensuel net](02_exercices/02_maip_strings/chaines_estimation_salaire_mensuel_net.pdf) | (Enoncé , corrigé et solutions alternatives)
+  - [Calcul de la moyenne d'un élève](02_exercices/02_maip_stringschaines_moyenne_eleve.pdf) | (Enoncé , corrigé et solutions alternatives)
 
 ## Ressources utiles
 
