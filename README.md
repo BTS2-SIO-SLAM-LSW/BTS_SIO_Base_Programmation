@@ -35,7 +35,7 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
 
   - [QCM d'entraînement sur PRONOTE (N'hésitez pas à revoir les corrections dans PRONOTE)]
 
-- [Les chaînes de caractères , les oéprateurs de comparaisons , les opérateurs logiques , les structures conditionnelles : ]
+- [Les chaînes de caractères , les opérateurs de comparaison , les opérateurs logiques , les structures conditionnelles : ]
 
   - QCM d'entraînement sur PRONOTE
     (N'hésitez pas à revoir les corrections dans PRONOTE)
