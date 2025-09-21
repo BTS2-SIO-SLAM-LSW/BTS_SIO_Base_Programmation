@@ -37,9 +37,9 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
 
   - QCM d'entraînement sur PRONOTE
     (N'hésitez pas à revoir les corrections dans PRONOTE)
-  - [Capitalisation de mots](02_exercices/02_maip_strings/chaines_capitalisation_de_noms.pdf) | (Enoncé , corrigé et solutions alternatives)
-  - [Estimation de salaire mensuel net](02_exercices/02_maip_strings/chaines_estimation_salaire_mensuel_net.pdf) | (Enoncé , corrigé et solutions alternatives)
-  - [Calcul de la moyenne d'un élève](02_exercices/02_maip_stringschaines_moyenne_eleve.pdf) | (Enoncé , corrigé et solutions alternatives)
+  - [Capitalisation de mots](02_exercices/02_manip_strings/chaines_capitalisation_de_noms.pdf) | (Enoncé , corrigé et solutions alternatives)
+  - [Estimation de salaire mensuel net](02_exercices/02_manip_strings/chaines_estimation_salaire_mensuel_net.pdf) | (Enoncé , corrigé et solutions alternatives)
+  - [Calcul de la moyenne d'un élève](02_exercices/02_manip_strings/chaines_moyenne_eleve.pdf) | (Enoncé , corrigé et solutions alternatives)
 
 ## Ressources utiles
 
