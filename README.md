@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Support de cours](#support-de-cours)
     - [Démo : Les variables](#démo--les-variables)
-	  - [Démo : Les chaînes de caractères](#démo--les-chaînes-de-caractères)
+    - [Démo : Les chaînes de caractères](#démo--les-chaînes-de-caractères)
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
@@ -37,8 +37,8 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
 
   - [QCM d'entraînement sur PRONOTE (N'hésitez pas à revoir les corrections dans PRONOTE)]
   - [Capitalisation de mots (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_capitalisation_de_noms.pdf)
-  - [Capitalisation de mots (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_estimation_salaire_mensuel_net.pdf)
-  - [Capitalisation de mots (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_moyenne_eleve.pdf)
+  - [Estimation de salaire mensuel net (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_estimation_salaire_mensuel_net.pdf)
+  - [Calcul de la moyenne d'un élève (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_moyenne_eleve.pdf)
 
 ## Ressources utiles
 
