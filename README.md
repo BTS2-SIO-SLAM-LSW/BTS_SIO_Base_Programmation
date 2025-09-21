@@ -27,7 +27,7 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
   - [Les variables](01_cours/demos/01_variables/01_variables.py)
   - [Les chaînes de caractères](01_cours/demos/02_manip_strings/02_manip_strings.py)
   - [Les operateurs de comparaison et les opérateurs logiques](01_cours/demos/03_operateurs/03_operateurs.py)
-  - [Les structures conditionnelles](01_cours/demos/04_struc_conditionnelles/04_struc_conditionnelles.py)
+  - [Les structures conditionnelles](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.py)
 
 ## Exercices
 
