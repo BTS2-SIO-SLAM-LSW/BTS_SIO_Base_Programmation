@@ -3,8 +3,8 @@
 ## Table des matières
 - [Introduction](#introduction)
 - [Support de cours](#support-de-cours)
-    - [Démo : Les variables](#démo--les-variables)
-    - [Démo : Les chaînes de caractères](#démo--les-chaînes-de-caractères)
+    - [Les variables](#démo--les-variables)
+    - [Les chaînes de caractères](#démo--les-chaînes-de-caractères)
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
@@ -24,8 +24,8 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
 
 - [Présentation générale des cours](01_cours/presentation_generale_des_cours.pdf)
 
-  - [Les variables](01_cours/demos/01_variables.py)
-  - [Les chaînes de caractères](01_cours/demos/02_manip_strings.py)
+  - [Les variables](01_cours/demos/01_variables/01_variables.py)
+  - [Les chaînes de caractères](01_cours/demos/02_manip_strings/02_manip_strings.py)
 
 ## Exercices
 
