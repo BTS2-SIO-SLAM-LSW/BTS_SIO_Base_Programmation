@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Support de cours](#support-de-cours)
     - [Démo : Les variables](#démo--les-variables)
-	- [Démo : Les chaînes de caractères](#démo--les-chaînes-de-caractères)
+	  - [Démo : Les chaînes de caractères](#démo--les-chaînes-de-caractères)
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
@@ -13,17 +13,32 @@
 ---
 
 ## Introduction
-Texte d’introduction.
+
+Ce dépôt Github a pour objectif de mettre à disposition un ensemble de ressources pédagogiques sur les bases du langage Python .
+
+Vous y trouverez des exemples de code commentés, des exercices pratiques ainsi que des fichiers illustrant les notions fondamentales telles que la manipulation des chaînes de caractères, les opérateurs arithmétiques et logiques, les structures conditionnelles et bien d'autes encore . 
+
+L’objectif est de vous fournir un support progressif vous permettant d’acquérir les compétences essentielles pour écrire, comprendre et améliorer des programmes en Python .
 
 ## Support de cours
 
-- [langage_python_bts_sio2_par_david_donisa.pdf](01_cours/langage_python_bts_sio2_par_david_donisa.pdf)
+- [Présentation générale des cours](01_cours/presentation_generale_des_cours.pdf)
 
-  - [Démo : Les variables](01_cours/demos/01_variables.py)
-  - [Démo : Les chaînes de caractères](01_cours/demos/02_manip_strings.py)
+  - [Les variables](01_cours/demos/01_variables.py)
+  - [Les chaînes de caractères](01_cours/demos/02_manip_strings.py)
 
 ## Exercices
 
+- [Les variables : ]
+
+  - [QCM d'entraînement sur PRONOTE (N'hésitez pas à revoir les corrections dans PRONOTE)]
+
+- [Les chaînes de caractères , les oéprateurs de comparaisons , les opérateurs logiques , les structures conditionnelles : ]
+
+  - [QCM d'entraînement sur PRONOTE (N'hésitez pas à revoir les corrections dans PRONOTE)]
+  - [Capitalisation de mots (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_capitalisation_de_noms.pdf)
+  - [Capitalisation de mots (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_estimation_salaire_mensuel_net.pdf)
+  - [Capitalisation de mots (Enoncé , corrigé et solutions alternatives)](02_exercices/demos/chaines_moyenne_eleve.pdf)
 
 ## Ressources utiles
 
