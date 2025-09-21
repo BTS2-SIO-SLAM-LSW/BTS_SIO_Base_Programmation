@@ -3,14 +3,14 @@
 ## Table des matières
 - [Introduction](#introduction)
 - [Support de cours](#support-de-cours)
-    - [Les variables](#démo--les-variables)
-    - [Les chaînes de caractères](#démo--les-chaînes-de-caractères)
+    - [Les variables](#les-variables)
+    - [Les chaînes de caractères](#les-chaînes-de-caractères)
+    - [Les operateurs de comparaison et les opérateurs logiques](#les-operateurs-de-comparaison-et-les-opérateurs_logiques)
+    - [Les structures conditionnelles](#les-structures-conditionnelles)
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
 - [Crédits](#crédits)
-
----
 
 ## Introduction
 
@@ -26,6 +26,8 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
 
   - [Les variables](01_cours/demos/01_variables/01_variables.py)
   - [Les chaînes de caractères](01_cours/demos/02_manip_strings/02_manip_strings.py)
+  - [Les operateurs de comparaison et les opérateurs logiques](01_cours/demos/02_manip_strings/03_operateurs.py)
+  - [Les structures conditionnelles](01_cours/demos/02_manip_strings/04_struc_conditionnelles.py)
 
 ## Exercices
 
