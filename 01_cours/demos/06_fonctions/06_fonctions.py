@@ -87,9 +87,6 @@ print(ma_variable)  # existe maintenant partout
 
 
 
-
-
-
 # 8) Arguments positionnels , Arguments nommés , Arguments variables (*args et **kwargs)
 # ---------------------------------------------------------------------------------------
 

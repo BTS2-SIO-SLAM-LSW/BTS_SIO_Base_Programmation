@@ -146,7 +146,92 @@ print("Fin du contrôle facture\n")
 
 
 
-# match
+# ================================================================
+# Cours : match / case en Python (≥ 3.10)
+# ================================================================
+# Objectif : simplifier les longues séries de if / elif / else
+# Exemple typique : analyser une variable qui peut prendre
+# plusieurs valeurs possibles.
+#
+#  Différence par rapport à if/elif :
+# - if/elif : on compare plusieurs fois la variable avec l'opérateur de comparaison ==
+# - match   : on écrit la variable une seule fois, puis on
+#             définit les cas possibles (case)
+#
+# ⚡ Fallthrough en Python :
+# - Contrairement à certains langages (C, Java),
+#   Python NE FAIT PAS de "fallthrough".
+# - Cela veut dire : dès qu’un case correspond, le code de ce case
+#   s’exécute et les autres sont ignorés.
+# - Donc pas besoin d’écrire "break".
+# ================================================================
+
+# Exemple 1 : comparer un choix utilisateur
+choix = "facture"  # Essaie avec "devis", "contrat", ou autre
+
+# Version classique avec if/elif/else
+if choix == "facture":
+    print("Création d'une facture")
+elif choix == "devis":
+    print("Création d'un devis")
+elif choix == "contrat":
+    print("Rédaction d'un contrat")
+else:
+    print("Opération inconnue")
+
+# Version équivalente avec match
+match choix:
+    case "facture":
+        print("Création d'une facture")
+    case "devis":
+        print("Création d'un devis")
+    case "contrat":
+        print("Rédaction d'un contrat")
+    case _:  # _ = cas par défaut (équivalent de else)
+        print("Opération inconnue")
+
+# ================================================================
+# Exemple 2 : plusieurs valeurs possibles avec un seul case
+statut = "en attente"  # Essaie aussi avec "payé", "annulé"
+
+match statut:
+    case "payé" | "validé":  # | signifie OU
+        print("Paiement validé !")
+    case "en attente" | "en cours":
+        print("Paiement en cours !")
+    case "refusé" | "annulé":
+        print("Paiement refusé !")
+    case _:
+        print("Statut inconnu")
+
+# ================================================================
+# Exemple 3 : match est plus lisible que if/elif
+note = 12
+
+# Avec if/elif :
+if note >= 16:
+    print("Très bien")
+elif note >= 10:
+    print("Admis")
+else:
+    print("Refusé")
+
+# Avec match + conditions de garde (if) :
+match note:
+    case n if n >= 16:
+        print("Très bien")
+    case n if n >= 10:
+        print("Admis")
+    case _:
+        print("Refusé")
+
+# ================================================================
+# Bilan :
+# - if/elif/else : universel, mais vite répétitif si beaucoup de cas
+# - match/case   : plus lisible, surtout quand on compare UNE seule
+#   variable à plusieurs valeurs possibles
+# - pas de fallthrough en Python : un seul case s’exécute
+# ================================================================
 
 
 
