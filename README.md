@@ -5,8 +5,11 @@
 - [Support de cours](#support-de-cours)
     - [Les variables](#les-variables)
     - [Les chaînes de caractères](#les-chaînes-de-caractères)
-    - [Les operateurs de comparaison et les opérateurs logiques](#les-operateurs-de-comparaison-et-les-opérateurs_logiques)
+    - [Les opérateurs de comparaison et les opérateurs logiques](#les-operateurs-de-comparaison-et-les-opérateurs_logiques)
     - [Les structures conditionnelles](#les-structures-conditionnelles)
+    - [Les structures itératives](#les-structures-itératives)
+    - [Les fonctions](#les-fonctions)
+    
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
@@ -27,7 +30,9 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
   - [Les variables](01_cours/demos/01_variables/01_variables.py)
   - [Les chaînes de caractères](01_cours/demos/02_manip_strings/02_manip_strings.py)
   - [Les operateurs de comparaison et les opérateurs logiques](01_cours/demos/03_operateurs/03_operateurs.py)
-  - [Les structures conditionnelles](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.py)
+  - [Les structures conditionnelles](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.py) | Mis à jour le 22/09/2025 !
+  - [Les structures itératives](01_cours/demos/05_struct_iteratives/05_struct_iteratives.py)
+  - [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py)
 
 ## Exercices
 
