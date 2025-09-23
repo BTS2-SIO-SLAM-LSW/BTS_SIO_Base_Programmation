@@ -21,7 +21,7 @@ Ce dépôt Github a pour objectif de mettre à disposition un ensemble de ressou
 
 Vous y trouverez des exemples de code commentés, des exercices pratiques ainsi que des fichiers illustrant les notions fondamentales telles que la manipulation des chaînes de caractères, les opérateurs arithmétiques et logiques, les structures conditionnelles et bien d'autes encore . 
 
-L’objectif est de vous fournir un support progressif vous permettant d’acquérir les compétences essentielles pour écrire, comprendre et améliorer des programmes en Python , dans le cadre de votre BTS SIO.
+L’objectif est de vous fournir un support progressif vous permettant d’acquérir les compétences essentielles pour écrire, comprendre et améliorer des programmes en Python , dans le cadre de votre BTS SIO .
 
 ## Support de cours
 
