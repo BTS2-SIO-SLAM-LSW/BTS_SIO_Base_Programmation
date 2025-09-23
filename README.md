@@ -30,9 +30,9 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
   - [Les variables](01_cours/demos/01_variables/01_variables.py)
   - [Les chaînes de caractères](01_cours/demos/02_manip_strings/02_manip_strings.py)
   - [Les operateurs de comparaison et les opérateurs logiques](01_cours/demos/03_operateurs/03_operateurs.py)
-  - [Les structures conditionnelles](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.py) | Mis à jour le 22/09/2025 !
-  - [Les structures itératives](01_cours/demos/05_struct_iteratives/05_struct_iteratives.py)
-  - [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py)
+  - [Les structures conditionnelles](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles_mis_a_jour_le_23_09_2025.py) | Mis à jour le 23/09/2025 !
+  - [Les structures itératives](01_cours/demos/05_struct_iteratives/05_struct_iteratives.py) | Mis à jour le 23/09/2025 !
+  - [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py) | Mis à jour le 23/09/2025 !
 
 ## Exercices
 
