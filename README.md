@@ -27,12 +27,18 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
 
 - [Présentation générale des cours](01_cours/presentation_generale_des_cours.pdf)
 
-  - Les variables :  | [Support exécutable](01_cours/demos/01_variables/01_variables.py)
-  - Les chaînes de caractères : | [Support exécutable](01_cours/demos/02_manip_strings/02_manip_strings.py)
-  - Les operateurs de comparaison et les opérateurs logiques : | [Support exécutable](01_cours/demos/03_operateurs/03_operateurs.py)
-  - Les structures conditionnelles : [Cours à lire absolument](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.pdf) | [Support exécutable](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles_VERSION_MODIFIABLE_EXECUTABLE_mise_a_jour_le_23_09_2025.py) --> Mise à jour le 23/09/2025 !
-  - Les structures itératives : [Cours à lire absolument](01_cours/demos/05_struct_iteratives/05_struct_iteratives.pdf) | [Support exécutable](01_cours/demos/05_struct_iteratives/05_struct_iteratives_MODIFIABLE_EXECUTABLE.py) --> Mise à jour le 23/09/2025 !
-  - Les fonctions :  | [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py) --> Mise à jour le 23/09/2025 !
+  - Les variables :
+    - [Support exécutable](01_cours/demos/01_variables/01_variables.py)
+  - Les chaînes de caractères :
+    - [Support exécutable](01_cours/demos/02_manip_strings/02_manip_strings.py)
+  - Les operateurs de comparaison et les opérateurs logiques :
+    - [Support exécutable](01_cours/demos/03_operateurs/03_operateurs.py)
+  - Les structures conditionnelles :
+    - [Cours à lire absolument](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.pdf) | [Support exécutable](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles_VERSION_MODIFIABLE_EXECUTABLE_mise_a_jour_le_23_09_2025.py) --> Mise à jour le 23/09/2025
+  - Les structures itératives : 
+    - [Cours à lire absolument](01_cours/demos/05_struct_iteratives/05_struct_iteratives.pdf) | [Support exécutable](01_cours/demos/05_struct_iteratives/05_struct_iteratives_MODIFIABLE_EXECUTABLE.py) --> Mise à jour le 23/09/2025
+  - Les fonctions :
+    - [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py) --> Mise à jour le 23/09/2025
 
 ## Exercices
 
