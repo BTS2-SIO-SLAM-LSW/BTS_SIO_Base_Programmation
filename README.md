@@ -23,16 +23,16 @@ Vous y trouverez des exemples de code commentés, des exercices pratiques ainsi 
 
 L’objectif est de vous fournir un support progressif vous permettant d’acquérir les compétences essentielles pour écrire, comprendre et améliorer des programmes en Python , dans le cadre de votre BTS SIO .
 
-## Support de cours
+## Cours et Supports de cours
 
 - [Présentation générale des cours](01_cours/presentation_generale_des_cours.pdf)
 
-  - [Les variables](01_cours/demos/01_variables/01_variables.py)
-  - [Les chaînes de caractères](01_cours/demos/02_manip_strings/02_manip_strings.py)
-  - [Les operateurs de comparaison et les opérateurs logiques](01_cours/demos/03_operateurs/03_operateurs.py)
-  - [Les structures conditionnelles](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles_mis_a_jour_le_23_09_2025.py) | Mis à jour le 23/09/2025 !
-  - [Les structures itératives](01_cours/demos/05_struct_iteratives/05_struct_iteratives.py) | Mis à jour le 23/09/2025 !
-  - [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py) | Mis à jour le 23/09/2025 !
+  - Les variables :  | [Support exécutable](01_cours/demos/01_variables/01_variables.py)
+  - Les chaînes de caractères : | [Support exécutable](01_cours/demos/02_manip_strings/02_manip_strings.py)
+  - Les operateurs de comparaison et les opérateurs logiques : | [Support exécutable](01_cours/demos/03_operateurs/03_operateurs.py)
+  - Les structures conditionnelles : [Cours à lire absolument](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.pdf) | [Les structures conditionnelles](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles_VERSION_MODIFIABLE_EXECUTABLE_mise_a_jour_le_23_09_2025.py) --> Mise à jour le 23/09/2025 !
+  - Les structures itératives : [Cours à lire absolument](01_cours/demos/05_struct_iteratives/05_struct_iteratives.pdf) | [Les structures itératives](01_cours/demos/05_struct_iteratives/05_struct_iteratives_MODIFIABLE_EXECUTABLE.py) --> Mise à jour le 23/09/2025 !
+  - Les fonctions :  | [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py) --> Mise à jour le 23/09/2025 !
 
 ## Exercices
 
