@@ -9,6 +9,7 @@
     - [Les structures conditionnelles](#les-structures-conditionnelles)
     - [Les structures itératives](#les-structures-itératives)
     - [Les fonctions](#les-fonctions)
+    - [Les listes](#les-listes)
     
 - [Exercices](#exercices)
 
@@ -39,7 +40,9 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
     - [Cours à lire absolument](01_cours/demos/05_struct_iteratives/05_struct_iteratives.pdf) | [Support exécutable](01_cours/demos/05_struct_iteratives/05_struct_iteratives_MODIFIABLE_EXECUTABLE.py) --> Mise à jour le 23/09/2025
   - Les fonctions :
     - [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py) --> Mise à jour le 23/09/2025
-
+  - Les listes : 
+    - [Cours à lire absolument](01_cours/demos/06_listes/06_listes.pdf) | [Support exécutable](01_cours/demos/06_listes/06_listes_MODIFIABLE_EXECUTABLE.py)
+    
 ## Exercices
 
 - [Les variables : ]
