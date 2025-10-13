@@ -1,0 +1,18 @@
+Accès à l'élément d'une liste :
+=============================
+
+ma_liste(START:STOP:STEP)
+         <=> [START,STOP[ par pas de STEP
+
+
+Longueur d'une liste :
+====================
+
+len(ma_liste)
+
+Maximum et minimum d'une liste :
+==============================
+
+min(ma_liste)
+max_ma_liste)
+
