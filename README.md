@@ -43,7 +43,7 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
     - [Les fonctions](01_cours/demos/06_fonctions/06_fonctions.py) --> Mise à jour le 23/09/2025
   - Les listes : 
     - [Cours à lire absolument](01_cours/demos/06_listes/06_listes.pdf) | [Support exécutable](01_cours/demos/06_listes/06_listes_MODIFIABLE_EXECUTABLE.py)
-    - La programmation orientée objet : 
+  - La programmation orientée objet : 
     - [Cours à lire absolument](01_cours/demos/07_programmation_orientee_objet_poo/07_programmation_orientee_objet_poo.pdf) | [Support exécutable](01_cours/demos/07_programmation_orientee_objet_poo/07_programmation_orientee_objet_poo_MODIFIABLE_EXECUTABLE.py)
     
 ## Exercices
